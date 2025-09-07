@@ -16,4 +16,4 @@ It allows users to take quizzes on different topics and shows the final score at
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/TasneemWaleed/quizzy.git

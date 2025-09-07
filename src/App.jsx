@@ -29,6 +29,7 @@ export default function App() {
 
         {screen === "results" && <ScoreSummary onRestart={() => setScreen("start")} />}
       </div>
+
     </div>
   );
 }

@@ -27,7 +27,7 @@ export default function QuestionCard({ settings, onFinish, onBack }) {
         ))}
       </div>
 
-      <button onClick={onFinish} className="mt-4 w-full bg-green-600 text-white p-2 rounded">Finish (placeholder)</button>
+      <button onClick={onFinish} className="mt-4 w-full bg-green-600 text-white p-2 rounded">Finish</button>
     </div>
   );
 }
